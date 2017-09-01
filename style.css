@@ -258,3 +258,14 @@ main a:hover {
 .contact-home p, .contact-phone p, .contact-mail p {
   margin: 50px;
 }
+
+footer {
+  background: url("https://www.toptal.com/designers/subtlepatterns/patterns/escheresque_ste.png");
+  height: 50px;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
